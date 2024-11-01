@@ -11,7 +11,7 @@ todo_solana = "sA62Db23P2TJsM9UBV6JDNSG3L4esgdxFcM5norjfv4"
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "http://127.0.0.1:8899"
+cluster = "https://api.devnet.solana.com"
 wallet = "~/.config/solana/id.json"
 
 [scripts]
